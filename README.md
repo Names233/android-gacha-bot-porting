@@ -5,6 +5,8 @@
 ## 文档
 
 - [移植方案全文](PORTING_PLAN.md) — 包含架构分析、技术路径、可行性评估
+- [架构深度分析](ARCHITECTURE_ANALYSIS.md) — 三大项目的截图识别、操控方式、操作判断源码级对比
+- [Android 修改清单](ANDROID_MODIFICATIONS.md) — BetterGI 和 March7thAssistant 逐层移植修改清单
 
 ## 背景
 
